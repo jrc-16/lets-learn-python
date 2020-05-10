@@ -16,4 +16,4 @@
 # Modulus
 
 
-# Floor
+# Floor division
